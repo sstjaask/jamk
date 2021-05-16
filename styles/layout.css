@@ -84,7 +84,7 @@ a:hover:not(.active) {
     background-color: #db8308;
 }  
 .active {
-    background-color:#D8CCAF;
+    background-color:rgb(224, 157, 0);
 }
 a:link {
     color: #473112;
