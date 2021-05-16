@@ -68,6 +68,7 @@ img {
     padding: 0;
     overflow: hidden;
     width: max-content;
+    white-space: nowrap;
 }
 li{
     display: inline;
@@ -78,7 +79,7 @@ li a{
     text-decoration: none;
     color: #F7F5EE;
     height: max-content;
-    padding: 0.15625em 1em;
+    padding: 0.15em 1em;
 }  
 a:hover:not(.active) {
     background-color: #db8308;
