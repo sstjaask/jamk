@@ -86,6 +86,7 @@ a:hover:not(.active) {
 }  
 .active {
     background-color:#D8CCAF;
+    height: max-content;
 }
 a:link {
     color: #473112;
