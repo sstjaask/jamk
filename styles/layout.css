@@ -78,7 +78,7 @@ li a{
     text-decoration: none;
     color: #F7F5EE;
     height: max-content;
-    padding: 0.151em 1em;
+    padding: 0.4375em 1em;
 }  
 a:hover:not(.active) {
     background-color: #db8308;
