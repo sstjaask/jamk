@@ -77,6 +77,7 @@ li a{
     text-align: center;
     text-decoration: none;
     color: #F7F5EE;
+    height: max-content;
     padding: 0.3em 1em;
 }  
 a:hover:not(.active) {
